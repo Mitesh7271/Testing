@@ -1,0 +1,119 @@
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\csc.exe
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\vbc.exe
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll.config
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.pdb
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\WebGrease.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.pdb
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.xml
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+C:\Users\Yogesh\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\csc.exe
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Collections.Immutable.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Reflection.Metadata.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\vbc.exe
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe.config
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll.config
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\WebGrease.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.xml
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.csprojResolveAssemblyReference.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET MVC Server side Validation of Controls\ServerSideValidation\ServerSideValidation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\csc.exe
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\vbc.exe
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll.config
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\ServerSideValidation.pdb
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\WebGrease.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Antlr3.Runtime.pdb
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\Newtonsoft.Json.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Optimization.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Razor.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Webpages.Razor.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Helpers.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\bin\System.Web.Mvc.xml
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.csprojAssemblyReference.cache
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.csproj.CopyComplete
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.dll
+C:\Users\inovate\Desktop\ServerSideValidation\ServerSideValidation\obj\Debug\ServerSideValidation.pdb
